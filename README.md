@@ -23,4 +23,4 @@ DASBOARD==https://1drv.ms/i/c/54cbeda012444387/IQAr9k0F99I6TLXX9sN0aVY7AcfmlMAuQ
 • Identified top-performing chocolate products.
 • Analyzed monthly sales growth trends.
 • Compared regional sales performance.
-• Tracked profit and revenue metrics
+• Tracked profit and revenue metrics.
