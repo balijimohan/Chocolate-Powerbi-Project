@@ -1,2 +1,3 @@
-# Chocolate-Powerbi-Project
-Developed an interactive Power BI dashboard to analyze chocolate sales data, profit trends, customer insights, and regional performance using data visualization techniques.
+#Chocolate Sales Power BI Project Report
+This project focuses on analyzing chocolate sales data using Power BI. The dashboard provides insights into sales
+performance, profit trends, product analysis, and regional performance.
